@@ -1,0 +1,52 @@
+{
+  "name": "mern-boilerplate-js",
+  "version": "1.0.2",
+  "description": "A modern boilerplate generator for building full-stack applications using the MERN stack (MongoDB, Express, React, Node.js). Quickly scaffold new projects with best practices and standardized setup.",
+  "main": "bin/index.js",
+  "bin": {
+    "create-mern-app": "bin/index.js",
+    "mern-boilerplate": "bin/index.js"
+  },
+  "files": [
+    "bin/",
+    "template/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node test/test.js",
+    "prepublishOnly": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahalsuad/mern-boilerplate-js.git"
+  },
+  "keywords": [
+    "mern",
+    "boilerplate",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "scaffolding",
+    "generator",
+    "template",
+    "full-stack",
+    "javascript",
+    "cli"
+  ],
+  "author": "Abdullah Al Suad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdullahalsuad/mern-boilerplate-js/issues"
+  },
+  "homepage": "https://github.com/abdullahalsuad/mern-boilerplate-js#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "degit": "^2.8.4"
+  },
+  "devDependencies": {},
+  "preferGlobal": true
+}
