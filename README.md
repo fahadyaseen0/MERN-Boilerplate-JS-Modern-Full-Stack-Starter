@@ -145,24 +145,3 @@ We welcome contributions! Here's how you can help:
 3. 💻 Make your changes
 4. ✅ Test thoroughly
 5. 📤 Submit a pull request
-
-## 💬 Community & Support
-
-- 🐛 [Report Issues](https://github.com/abdullahalsuad/mern-boilerplate-js/issues)
-- 💡 [Feature Requests](https://github.com/abdullahalsuad/mern-boilerplate-js/discussions)
-- ⭐ [Star on GitHub](https://github.com/abdullahalsuad/mern-boilerplate-js)
-- 🐦 [Follow on Twitter](https://twitter.com/abdullahalsuad)
-
-## 📄 License
-
-MIT © [Abdullah Al Suad](https://github.com/abdullahalsuad)
-
----
-
-<div align="center">
-
-**Made with ❤️ by [Abdullah Al Suad](https://github.com/abdullahalsuad), for developers**
-
-[🌟 Star on GitHub](https://github.com/abdullahalsuad/mern-boilerplate-js) • [📦 NPM Package](https://www.npmjs.com/package/mern-boilerplate-js) • [🐛 Report Bug](https://github.com/abdullahalsuad/mern-boilerplate-js/issues)
-
-</div>
